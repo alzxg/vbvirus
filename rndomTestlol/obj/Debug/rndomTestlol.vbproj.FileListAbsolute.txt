@@ -1,0 +1,11 @@
+H:\programming visual studio\random\rndomTestlol\rndomTestlol\bin\Debug\rndomTestlol.exe.config
+H:\programming visual studio\random\rndomTestlol\rndomTestlol\bin\Debug\rndomTestlol.exe
+H:\programming visual studio\random\rndomTestlol\rndomTestlol\bin\Debug\rndomTestlol.pdb
+H:\programming visual studio\random\rndomTestlol\rndomTestlol\bin\Debug\rndomTestlol.xml
+H:\programming visual studio\random\rndomTestlol\rndomTestlol\obj\Debug\rndomTestlol.vbprojResolveAssemblyReference.cache
+H:\programming visual studio\random\rndomTestlol\rndomTestlol\obj\Debug\rndomTestlol.Form1.resources
+H:\programming visual studio\random\rndomTestlol\rndomTestlol\obj\Debug\rndomTestlol.Resources.resources
+H:\programming visual studio\random\rndomTestlol\rndomTestlol\obj\Debug\rndomTestlol.vbproj.GenerateResource.Cache
+H:\programming visual studio\random\rndomTestlol\rndomTestlol\obj\Debug\rndomTestlol.exe
+H:\programming visual studio\random\rndomTestlol\rndomTestlol\obj\Debug\rndomTestlol.xml
+H:\programming visual studio\random\rndomTestlol\rndomTestlol\obj\Debug\rndomTestlol.pdb
